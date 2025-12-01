@@ -75,13 +75,9 @@ Grafik training & validasi meliputi:
 
 | Teknologi | Fungsi |
 | -------------------- | ------------------------------ |
-
-**| Teknologi              | Fungsi                          |**
-**| ---------------------- | ------------------------------- |
-| **Python 3.8+**        | Bahasa utama                    |
-| **TensorFlow / Keras** | Membangun dan melatih model CNN |
-| **Scikit-learn**       | Train-test split                |
-| **Matplotlib**         | Visualisasi                     |
-| **NumPy**              | Operasi numerik                 |
-| **Google Colab**       | Environment eksekusi (opsional) |**
-
+| Python 3.8 | Bahasa utama |
+| TensorFlow / Keras | Membangun dan melatih model CNN |
+| Scikit-learn | Train-test split |
+| Matplotlib | Visualisasi |
+| NumPy | Operasi numerik |
+| Google Colab | Environment eksekusi (opsional) |
