@@ -43,3 +43,28 @@ Pembagian dilakukan dengan "train_test_split" dari Scikit-learn.
 
 ---
 
+## Arsitektur Model
+
+Model menggunakan arsitektur CNN Sequential dengan struktur berikut:
+- Conv2D(32 filters) + MaxPooling
+- Conv2D(64 filters) + MaxPooling
+- Conv2D(128 filters) + MaxPooling
+- Flatten
+- Dropout(0.5)
+- Dense 128 (ReLU)
+- Dense 3 (Softmax) → output 3 kelas
+
+Optimizer: Adam
+Loss function: Categorical Crossentropy
+
+---
+
+## Hasil Model
+
+Model mencapai performa berikut:
+- Akurasi Training: ± 90–97%
+- Akurasi Validasi: ± 85–95%
+
+Grafik training & validasi meliputi:
+- Accuracy vs Validation Accuracy
+- Loss vs Validation Loss
