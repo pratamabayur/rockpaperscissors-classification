@@ -1,8 +1,7 @@
 # 🪨📄✂️ Rock–Paper–Scissors Image Classification
 ### Image Classification using Convolutional Neural Network (CNN) & TensorFlow
 
-This project was inspired by my thesis, which described the implementation and documentation of a **predictive web-based dashboard system** designed to monitor **IT procurement contracts** at Bank XYZ.  
-The project applies **machine learning (Random Forest)** and **interactive visualization (Streamlit)** to improve **IT governance** and reduce the risk of missed contract renewals.
+Project ini merupakan implementasi fundamental machine learning untuk mengenali gesture tangan Batu (Rock), Kertas (Paper), dan Gunting (Scissors) menggunakan deep learning berbasis Convolutional Neural Network (CNN).
 
 ---
 
