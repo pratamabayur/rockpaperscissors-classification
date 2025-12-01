@@ -1,5 +1,5 @@
-# Predictive Dashboard Design Using Random Forest and Streamlit
-### Case Study: IT Procurement Contract Monitoring at Bank XYZ
+# 🪨📄✂️ Rock–Paper–Scissors Image Classification
+### Image Classification using Convolutional Neural Network (CNN) & TensorFlow
 
 This project was inspired by my thesis, which described the implementation and documentation of a **predictive web-based dashboard system** designed to monitor **IT procurement contracts** at Bank XYZ.  
 The project applies **machine learning (Random Forest)** and **interactive visualization (Streamlit)** to improve **IT governance** and reduce the risk of missed contract renewals.
