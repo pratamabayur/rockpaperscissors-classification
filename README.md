@@ -5,26 +5,18 @@ Project ini merupakan implementasi fundamental machine learning untuk mengenali 
 
 ---
 
-## Authors:
-- Raihan Ardian Arief Hartono - 2502060343
-- Bayu Rizqi Pratama - 2502038116
-- Hanalda Bunga Permata - 2502039384
-- Ilona Irena Gutandjala S.Kom., M.MSI - D6208
+## Deskripsi Project
+
+Project ini bertujuan untuk membangun model klasifikasi gambar yang dapat mengenali gesture tangan: rock, paper, dan scissors. Dataset yang digunakan berasal dari Dicoding Academy, yang berisi kumpulan gambar tangan dengan pose berbeda.Model dilatih menggunakan TensorFlow dan Keras, dilengkapi dengan image augmentation untuk meningkatkan performa generalisasi model.
 
 ---
 
-## Project Objective
-To design and develop a predictive analytics dashboard that automates the classification of IT contract risks based on contract duration, contract type, and contract value.
-This system provides interactive visualizations and high-risk alerts, enabling the IT Division to proactively monitor contracts and support data-driven decision making.
+## Dataset
 
----
-
-## Role: System Analyst & Business Analytics
-- Conducting business process analysis and identifying root causes in manual contract tracking (Excel-based).
-- Determining system requirements and functional specifications using the SDLC (Waterfall) methodology.
-- Designing system architecture, use case diagrams, and data flow models.
-- Implement predictive classification using Random Forest integrated with Streamlit and Google Sheets.
-- Evaluate the system through accuracy metrics and user feedback from the PMA IT team.
+Dataset yang digunakan adalah:
+- Rock-Paper-Scissors Dataset
+  Sumber: Dicoding Academy
+  Link: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
 
 ---
 
