@@ -15,6 +15,7 @@ Project ini bertujuan untuk membangun model klasifikasi gambar yang dapat mengen
 
 Dataset yang digunakan adalah:
 - Rock-Paper-Scissors Dataset
+  
   Sumber: Dicoding Academy
   Link: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
 
