@@ -73,6 +73,9 @@ Grafik training & validasi meliputi:
 
 ## Teknologi yang Digunakan
 
+| Teknologi | Fungsi |
+| -------------------- | ------------------------------ |
+
 **| Teknologi              | Fungsi                          |**
 **| ---------------------- | ------------------------------- |
 | **Python 3.8+**        | Bahasa utama                    |
