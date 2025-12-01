@@ -29,4 +29,4 @@ Dataset kemudian dibagi menjadi:
 - 60% data training
 - 40% data validation
 
-Pembagian dilakukan dengan train_test_split dari Scikit-learn.
+Pembagian dilakukan dengan "train_test_split" dari Scikit-learn.
