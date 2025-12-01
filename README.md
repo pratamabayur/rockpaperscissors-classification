@@ -30,3 +30,16 @@ Dataset kemudian dibagi menjadi:
 - 40% data validation
 
 Pembagian dilakukan dengan "train_test_split" dari Scikit-learn.
+
+---
+
+## Tujuan Project
+
+- Membangun model deep learning untuk mengenali gambar batu/kertas/gunting.
+- Melakukan preprocessing & image augmentation untuk meningkatkan akurasi model.
+- Melatih model CNN menggunakan TensorFlow.
+- Melakukan evaluasi model berdasarkan akurasi dan loss.
+- Menguji model dalam memprediksi gambar yang di-upload pengguna.
+
+---
+
