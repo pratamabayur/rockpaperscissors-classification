@@ -7,7 +7,7 @@ Project ini merupakan implementasi fundamental machine learning untuk mengenali 
 
 ## Deskripsi Project
 
-Project ini bertujuan untuk membangun model klasifikasi gambar yang dapat mengenali gesture tangan: rock, paper, dan scissors. Dataset yang digunakan berasal dari Dicoding Academy, yang berisi kumpulan gambar tangan dengan pose berbeda.Model dilatih menggunakan TensorFlow dan Keras, dilengkapi dengan image augmentation untuk meningkatkan performa generalisasi model.
+Project ini bertujuan untuk membangun model klasifikasi gambar yang dapat mengenali gesture tangan: rock, paper, dan scissors. Dataset yang digunakan berasal dari Dicoding Academy, yang berisi kumpulan gambar tangan dengan pose berbeda. Model dilatih menggunakan TensorFlow dan Keras, dilengkapi dengan image augmentation untuk meningkatkan performa generalisasi model.
 
 ---
 
