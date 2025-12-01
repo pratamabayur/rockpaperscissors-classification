@@ -68,3 +68,17 @@ Model mencapai performa berikut:
 Grafik training & validasi meliputi:
 - Accuracy vs Validation Accuracy
 - Loss vs Validation Loss
+
+---
+
+## Teknologi yang Digunakan
+
+**| Teknologi              | Fungsi                          |**
+**| ---------------------- | ------------------------------- |
+| **Python 3.8+**        | Bahasa utama                    |
+| **TensorFlow / Keras** | Membangun dan melatih model CNN |
+| **Scikit-learn**       | Train-test split                |
+| **Matplotlib**         | Visualisasi                     |
+| **NumPy**              | Operasi numerik                 |
+| **Google Colab**       | Environment eksekusi (opsional) |**
+
