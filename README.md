@@ -1,4 +1,4 @@
-# 🪨📄✂️ Rock–Paper–Scissors Image Classification
+# 🪨📄✂️ Rock - Paper - Scissors Image Classification
 ### Image Classification using Convolutional Neural Network (CNN) & TensorFlow
 
 Project ini merupakan implementasi fundamental machine learning untuk mengenali gesture tangan Batu (Rock), Kertas (Paper), dan Gunting (Scissors) menggunakan deep learning berbasis Convolutional Neural Network (CNN).
